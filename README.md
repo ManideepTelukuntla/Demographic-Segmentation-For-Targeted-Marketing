@@ -21,6 +21,7 @@ The following libraries are expected to be used in this project:
 - `Sklearn / scikit-learn`
 - `Matplotlib` (for data visualization)
 - `Seaborn` (for data visualization)
+
 The code should run with no issues using Python versions 3.*.
 
 ## File Descriptions <a name="files"></a>
