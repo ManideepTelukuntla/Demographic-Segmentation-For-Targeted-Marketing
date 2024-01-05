@@ -15,7 +15,7 @@ In this project, Bertelsmann partners AZ Direct and Arvato Financial Solutions h
 
 `This project was completed as part of Udacity's Intro To Machine Learning Nanodegree`
 
-## 2. Objectives <a name="objectives"></a>
+## 2. Objectives
 Apply unsupervised learning techniques on demographic and spending data for a sample of German households. Preprocess the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers with the goal of optimizing customer outreach for a mail order company.
 
 ## 3. Methodology/Approach
@@ -25,7 +25,7 @@ Apply unsupervised learning techniques on demographic and spending data for a sa
 - **Customer Segmentation**: Applied clustering techniques like KMeans to segment the population into distinct groups based on their demographics and behaviors.
 - **Analysis and Insights**: Interpreted the clustering results to identify and understand the characteristics of each customer segment. Translated these findings into actionable business insights.
 
-## 4. Installation/Requirements <a name="installation"></a>
+## 4. Installation/Requirements
 
 - [Python](https://www.python.org/downloads/)
 - [Jupyter Notebook](https://jupyter.org/install)
@@ -39,7 +39,7 @@ The following libraries are expected to be used in this project:
 
 The code should run with no issues using Python versions 3.*.
 
-## 5. File Descriptions <a name="files"></a>
+## 5. File Descriptions
 - `Identify_Customer_Segments.ipynb`: Jupyter Notebook divided into sections and guidelines for completing the project. The notebook provides more details and tips than the outline given here.
 
 ## 6. Data Collection and Sources
