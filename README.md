@@ -1,5 +1,11 @@
 # Identify Customer Segments with Arvato
 
+<div align="center">
+  <img src="https://github.com/ManideepTelukuntla/Identify-Customer-Segments-Arvato/blob/master/Images/Identify-Customer-Segments-Banner.svg" width="800" height="600" alt="Stock Portfolio Optimization">
+  <br>
+  <p><a href="https://www.freepik.com/free-vector/generating-new-leads-concept-illustration_19949473.htm#query=customer%20segmentation%20illustration&position=4&from_view=search&track=ais&uuid=9dff4445-cbd7-4392-a39e-c1d65b720ac2">Image by storyset</a> on Freepik</p>
+</div>
+
 ## Table of Contents
 1. [Introduction/Overview](#1-introductionoverview)
 2. [Objectives](#2-objectives)
@@ -40,7 +46,8 @@ The following libraries are expected to be used in this project:
 The code should run with no issues using Python versions 3.*.
 
 ## 5. File Descriptions
-- `Identify_Customer_Segments.ipynb`: Jupyter Notebook divided into sections and guidelines for completing the project. The notebook provides more details and tips than the outline given here.
+- **`Identify_Customer_Segments.ipynb`**: Jupyter Notebook divided into sections and guidelines for completing the project. The notebook provides more details and tips than the outline given here.
+- **`Images`**: Folder with images pertaining to this project.
 
 ## 6. Data Collection and Sources
 - `Udacity_AZDIAS_Subset.csv`: Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
