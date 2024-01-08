@@ -1,4 +1,4 @@
-# Identify Customer Segments with Arvato
+# Demographic Segmentation for Targeted Marketing
 
 <div align="center">
   <img src="https://github.com/ManideepTelukuntla/Identify-Customer-Segments-Arvato/blob/master/Images/Identify-Customer-Segments-Banner.svg" width="800" height="600" alt="Stock Portfolio Optimization">
